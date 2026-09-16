@@ -1,0 +1,11 @@
+# 个人窗口状态，不需要在设备之间同步
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
+
+# 机密或临时文件
+.env
+*.log
